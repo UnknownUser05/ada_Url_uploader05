@@ -1,1 +1,1 @@
-gunicorn app:app and phyton 3
+gunicorn app:app and phyton 3 bot.py
